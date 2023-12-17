@@ -1,1 +1,2 @@
-# Example site for hugo-theme-gallery
+# image-hosting
+A image gallery
