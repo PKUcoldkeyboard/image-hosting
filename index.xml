@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery</title>
-    <link>/</link>
+    <link>https://cuterwrite.top/image-hosting/</link>
     <description>Recent content on Gallery</description>
     
     <language>en</language>
-    <copyright>© Cuterwrite</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+    <copyright>© Cuterwrite</copyright><atom:link href="https://cuterwrite.top/image-hosting/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Anime</title>
-      <link>/anime/</link>
+      <link>https://cuterwrite.top/image-hosting/anime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/anime/</guid><media:content url="/anime/_hu48042c04f3adb5d42e8b9864a5babd50_55592_d879db3d9fe6b5c46369b5303147a8bb.webp" type="image/jpeg"/>
+      <guid>https://cuterwrite.top/image-hosting/anime/</guid><media:content url="https://cuterwrite.top/image-hosting/anime/_hu48042c04f3adb5d42e8b9864a5babd50_55592_d879db3d9fe6b5c46369b5303147a8bb.webp" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;/anime/_hu48042c04f3adb5d42e8b9864a5babd50_55592_d879db3d9fe6b5c46369b5303147a8bb.webp&quot; /&gt;
+          &lt;img src=&quot;https://cuterwrite.top/image-hosting/anime/_hu48042c04f3adb5d42e8b9864a5babd50_55592_d879db3d9fe6b5c46369b5303147a8bb.webp&quot; /&gt;
           &lt;p&gt;Dive into the enchanting world of anime, featuring a vast collection of stunning images of your favorite 2D beauties. Explore high-quality artwork, fan art, and illustrations of popular anime characters, all in one convenient place!&lt;/p&gt;
         </description></item>
   </channel>
