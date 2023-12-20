@@ -7,6 +7,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 timeZone = "Asia/Shanghai"
 theme = "github.com/nicokaiser/hugo-theme-gallery/v2"
+timeout = "60s"
 
 [params]
   title = "My Gallery"
@@ -39,3 +40,4 @@ theme = "github.com/nicokaiser/hugo-theme-gallery/v2"
   name = "GitHub"
   url = "https://github.com/PKUcoldkeyboard/"
   weight = 3
+
